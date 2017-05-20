@@ -1,5 +1,5 @@
 var express = require('express');
-var DB=require('./models/DB.js');
+var DB=require('./DB.js');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 
